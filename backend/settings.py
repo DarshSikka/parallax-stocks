@@ -24,7 +24,7 @@ SECRET_KEY = 'x02avh039wmxu^^^=-smli+*wd)mv%=@9d!m&fl@+qo76!qqe!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
