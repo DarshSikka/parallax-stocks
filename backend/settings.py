@@ -22,7 +22,7 @@ CORS_ORIGIN_ALLOW_ALL = True
 SECRET_KEY = 'x02avh039wmxu^^^=-smli+*wd)mv%=@9d!m&fl@+qo76!qqe!'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
